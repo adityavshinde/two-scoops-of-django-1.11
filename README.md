@@ -1,6 +1,7 @@
 Two Scoops of Django 1.11
 ===================================================
 
+Some spelling mistakes where there which has been solved
 Tracking thoughts and feature requests for Two Scoops of Django 1.11 in the issue tracker.
 
 [![Two Scoops of Django 1.11](https://cdn.shopify.com/s/files/1/0304/6901/files/tsd-111-alpha-thumbnail.jpg?v=1493066333 "Two Scoops of Django 1.11")](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
